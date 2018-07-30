@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,merge_descriptors",
+    "logging_enabled": "false",
+    "name": "merge_descriptorsSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "merge_descriptorsSmokeTest.js"
+}
